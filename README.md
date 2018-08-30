@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to CoderDJT Pages
 
-You can use the [editor on GitHub](https://github.com/CoderDJT/TTProject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+此博客为新手博客，阅读需谨慎！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 关于我
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+我是一个博客新手，正在学习如何写博客
 
 # Header 1
 ## Header 2
