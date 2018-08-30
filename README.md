@@ -9,11 +9,6 @@
 # 学习Markdown语法
 [Markdown语法简介](https://guides.github.com/features/mastering-markdown/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
