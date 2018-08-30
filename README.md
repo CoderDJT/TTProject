@@ -6,9 +6,8 @@
 
 我是一个博客新手，正在学习如何写博客
 
-# Header 1
-## Header 2
-### Header 3
+# 学习Markdown语法
+[Markdown语法简介](https://guides.github.com/features/mastering-markdown/)
 
 - Bulleted
 - List
@@ -17,9 +16,6 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
