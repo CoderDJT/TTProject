@@ -6,5 +6,5 @@
 
 我是一个博客新手，正在学习如何写博客
 
-# 1. [C#](https://github.com/CoderDJT/TTProject/blob/master/README.md)
+# 1. [C#](https://github.com/CoderDJT/TTProject/blob/master/C#.md)
 
